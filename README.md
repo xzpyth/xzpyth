@@ -1,4 +1,4 @@
-## I hate fonts like this:  
-![Myriad](https://i.ibb.co/0mvVMxn/myriad-01.png)
-## I like fonts like this:
-![Source Sans](https://i.ibb.co/QP0FS3Y/Ssans-01.png)
+## Hi:  
+stuff that i like to do:  Sound: Mixing, Foley, Mastering, Restoration, SFX creation
+                          Video: Editing, Coloring, Multiplexing
+                          Picture: Editing, Photography and Graphic Design
