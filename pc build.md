@@ -19,7 +19,7 @@ ADATA XPG Lancer 2x16GB DDR5 5200MHz CL38
 Crucial P5 Plus 2 TB
 
 ## Amp/Dac:
-Topping DX3 Pro+ | Topping D90LE \ Topping A90D
+Topping DX3 Pro+ |  Topping DM7 \ Topping A90D
 
 ## IEM's:
 Moondrop LAN | Moondrop Blessing 2 | Kiwi Ears Cadenza
