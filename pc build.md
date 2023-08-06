@@ -22,4 +22,4 @@ Crucial P5 Plus 2 TB
 Topping DX3 Pro+ |  Topping DM7 \ Topping A90D
 
 ## IEM's:
-Moondrop LAN | Moondrop Blessing 2 | Kiwi Ears Cadenza
+Moondrop LAN | Kiwi Ears Cadenza
