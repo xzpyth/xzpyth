@@ -23,3 +23,6 @@ Topping DX3 Pro+ |  Topping DM7 \ Topping A90D
 
 ## IEM's:
 Moondrop LAN | Kiwi Ears Cadenza
+
+## Speakers:
+Genelec 8030C + JBL LSR310s
