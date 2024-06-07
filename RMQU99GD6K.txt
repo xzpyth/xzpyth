@@ -1,10 +1,12 @@
-CASE: Fractal Design Focus 2
-CASE Coolers:   Front:  2x Noctua NF-P14s redux-1500 PWM
-                Rear:   1x Noctua NF-P12 redux-1700 PWM
-CPU Cooler:             Noctua NH-U12S redux
+PC BUILD
+
+CASE: Fractal Design Meshify 2 Nano Black TG Dark Tint
+CASE Coolers:   Front:  2x Noctua NF-S12A PWM
+                Rear:   1x Noctua NF-S12A PWM
+CPU Cooler:             Noctua NH-D15S
 CPU: AMD Ryzen 9 7900X
 GPU: AMD Radeon RX 7900 XT
-MB: GIGABYTE B650M DS3H
+MB: GIGABYTE B650I AORUS ULTRA
 PSU: EVGA SuperNOVA 750 G5
 RAM: ADATA XPG Lancer 2x16GB DDR5 5200MHz CL38
 SSD 1: Crucial P5 Plus 2 TB
