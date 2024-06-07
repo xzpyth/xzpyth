@@ -1,3 +1,5 @@
+SERVER BUILD
+
 CASE: CST130 Basic
 CASE Coolers:   Front: 120mm FSP FAN x 2
                 Rear: 120mm FSP FAN x 1
