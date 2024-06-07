@@ -1,12 +1,12 @@
 SERVER BUILD
 
-CASE: CST130 Basic
-CASE Coolers:   Front: 120mm FSP FAN x 2
-                Rear: 120mm FSP FAN x 1
-CPU Cooler: AMD Ryzen Stock Cooler
-CPU: AMD Ryzen 5 5600G
+CASE:                     CST130 Basic
+CASE Coolers:   Front: 2x Noctua NF-P12 redux-1700 PWM
+                Rear:  1x Noctua NF-P12 redux-1700 PWM
+CPU Cooler:               Noctua NH-U12S redux
+CPU:                      AMD Ryzen 5 5600G
 GPU: -
-MB: GIGABYTE A520M H
-PSU: EVGA 600 GD
-RAM: 8G x1 ADATA XGP D35 3200MHZ CL 16-20-20 (AX4U32008G16A-SKBD35)
-SSD: Apacer AS2280P4 256GB
+MB:                       GIGABYTE A520M H
+PSU:                      EVGA 600 GD
+RAM: 8G x2 ADATA XGP D35 3200MHZ CL 16-20-20 (AX4U32008G16A-SKBD35)
+SSD:                      Apacer AS2280P4 256GB
