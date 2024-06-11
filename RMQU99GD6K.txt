@@ -1,9 +1,9 @@
 PC BUILD
 
 CASE: Fractal Design Meshify 2 Nano Black TG Dark Tint
-CASE Coolers:   Front:  2x Noctua NF-S12A PWM
-                Rear:   1x Noctua NF-S12A PWM
-CPU Cooler:             Noctua NH-D15S
+CASE Coolers:   Front:  2x Arctic P14 MAX
+                Rear:   1x Arctic P12 MAX
+CPU Cooler:             ARCTIC Freezer 36 + P12 MAX
 CPU: AMD Ryzen 9 7900X
 GPU: AMD Radeon RX 7900 XT
 MB: GIGABYTE B650I AORUS ULTRA
