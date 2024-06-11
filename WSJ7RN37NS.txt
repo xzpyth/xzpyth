@@ -1,8 +1,8 @@
 SERVER BUILD
 
 CASE:                     CST130 Basic
-CASE Coolers:   Front: 2x Noctua NF-P12 redux-1700 PWM
-                Rear:  1x Noctua NF-P12 redux-1700 PWM
+CASE Coolers:   Front: 2x Arctic P14 MAX
+                Rear:  1x Arctic P12 MAX
 CPU Cooler:               Noctua NH-U12S redux
 CPU:                      AMD Ryzen 5 5600G
 GPU: -
